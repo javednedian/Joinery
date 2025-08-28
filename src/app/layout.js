@@ -62,7 +62,7 @@ export default function RootLayout({ children }) {
                   </a>
                   
                   <ul className="dropdown-menu custom-dropdown">
-                    <li><Link className="dropdown-item" href="/service/doors-and-windows">Doors & Windows</Link></li>
+                    <li><Link className="dropdown-item" href="/service/doors-and-windows">Doors and Windows</Link></li>
                     <li><Link className="dropdown-item" href="/service/wooden-flooring-and-panelling">Wooden Flooring & Panelling</Link></li>
                     <li><Link className="dropdown-item" href="/service/office-and-commercial-joinery">Office & Commercial Joinery</Link></li>
                     <li><Link className="dropdown-item" href="/service/residential-joinery-works">Residential Joinery Works</Link></li>
